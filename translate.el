@@ -1,5 +1,4 @@
-;;; -*- Mode: Emacs-Lisp -*-
-;;; translate.el - use a wordlist to do simple translation
+;;; translate.el --- use a wordlist to do simple translation
 
 ;; Revision 0.1
 ;; $Id: translate.el,v 1.3 2003/07/27 11:55:35 schauer Exp $
